@@ -89,7 +89,7 @@ Blood bank management app to track donors, hospitals, and requests.
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: **your-email-here@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/your-link**
+- 📧 Email: **m7md.gara.m@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/**
 - 🐙 GitHub: **https://github.com/MohammedGhara**
 
